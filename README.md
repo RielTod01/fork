@@ -7,8 +7,8 @@
 <p align="center">
     <a href="https://Lexxy24.github.io">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Created+By+Lexxy+Official+🙏"
-            alt="Subscribe Yt Lexxy Official"
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Created+By+Hanz"
+            alt="FOLLOW MY TIKTOK"
         />
     </a>
 </p>
@@ -51,3 +51,4 @@ Click the deploy icon below !
 # My Sosial
 - [Group Bot Wa 1](https://chat.whatsapp.com/IJ9YU0zJeFgADkFXF2U8ee)
 - [Whatsapp ](wa.me/6283833342559)
+- [Tiktok  ](https://tiktok.com/@apasih_banh2) 
