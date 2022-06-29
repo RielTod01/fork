@@ -50,5 +50,5 @@ Click the deploy icon below !
 
 # My Sosial
 - [Group Bot Wa ](https://chat.whatsapp.com/IJ9YU0zJeFgADkFXF2U8ee)
-- [Whatsapp ](wa.me/6283833342559)
+- [Whatsapp ](http://wa.me/6283833342559)
 - [Tiktok  ](https://tiktok.com/@apasih_banh2) 
