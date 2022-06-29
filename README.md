@@ -7,7 +7,7 @@
 <p align="center">
     <a href="https://Lexxy24.github.io">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Created+By+Hanz+slebew🥶"
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Created+By+Hanz+Slebew+🥶"
             alt="FOLLOW MY TIKTOK"
         />
     </a>
@@ -35,7 +35,7 @@ Click the deploy icon below !
 > pkg install yarn
 > termux-setup-storage
 > git clone https://github.com/Gwgabut/fork.git
-> cd NeoxyBOT-v2
+> cd fork
 > yarn
 > npm start
 ```
@@ -43,7 +43,7 @@ Click the deploy icon below !
 ## RDP/VPS USER
 ```bash 
 > git clone https://github.com/Gwgabut/fork.git
-> cd NeoxyBOT-v2
+> cd fork
 > npm install
 > npm start
 ```
